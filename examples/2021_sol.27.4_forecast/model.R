@@ -112,7 +112,6 @@ catch_options <- list(
 )
 
 # F0, 2023
-F0 <- FLQuants(fbar=FLQuant(1e-8, dimnames=list(age='all', year=fy + 1)))
 
 # CONVERT to fwdControl
 
@@ -126,11 +125,8 @@ runs <- FLStocks(lapply(fctls, function(x) fwd(fut, sr=gmsrr, control=x)))
 
 run <- fwd(fut, sr=gmsrr, control=fctls$Bpa)
 
-# COMPARE
-
 Map(compare, runs, fctls)
 
-# Bpa, MSYBtrigger, F0
 
 # --- PROJECT F levels
 

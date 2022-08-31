@@ -1,0 +1,139 @@
+---
+title: "Sole 27.4 - 2021 forecast"
+subtitle: "ICES WGNSSK. Web, 21-30 April 2021"
+author: Iago MOSQUEIRA
+institute: Wageningen Marine Research (WMR), IJmuiden, The Netherlands.
+fontsize: 10pt
+output:
+  wmrkdown::wur:
+    slide_level: 1
+header-includes:
+  - \newcommand{\fig}[2][0.70]{\centering\includegraphics[width=#1\textwidth]{../report/#2}}
+custom: images/beamtrawl.jpg
+tags: [sol.27.4 SA]
+---
+
+```{r, knitr, echo=FALSE, message=FALSE, warning=FALSE}
+library(knitr)
+opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE,
+  fig.width=5, fig.height=3, fig.pos='H', fig.align='center')
+library(kableExtra)
+library(ggplotFL)
+library(icesAdvice)
+library(AAP)
+```
+
+```{r data}
+load('../output/aap.RData', verbose=FALSE)
+load("../model/runs.RData", verbose=FALSE)
+load('../output/tables.RData', verbose=FALSE)
+dy <- dims(run)$maxyear
+ay <- dy + 1
+fy <- ay + 1
+```
+
+# AAP 2020 assessment
+
+```{r, out.height="90%", fig.height=7}
+plot(fit)
+```
+
+# Forecast assumptions and settings
+
+- Natural mortality: 0.1 / year.
+- Maturity: kinfe-edge at age 3.
+- F and M before spawning: 0
+- Weights at age catch & stock: 5 year average.
+- Selectivity at age: 5 year average.
+- Discards ratio at age: 3 year average.
+
+```{r fbar, out.width="60%"}
+plot(window(fbar(run), start=2000)) + ylim(c(0, NA)) +
+  geom_point(size=1.2, color="black") + geom_point(size=0.7, color="white") +
+  ylab("F (2-6)") + xlab("")
+```
+
+# Intermediate year assumptions
+
+- TAC 2020: 17,545 t
+- Catch `r dy`: `r formatC(c(catch(run)[, ac(dy)]), format="f", big.mark=",", digits=0)` t
+- TAC 2021: 21,361 t
+- Catch 2021 (F 2020=0.23) = 16,656 t
+- F 2021 = 0.23
+- Recruitment: Geometric mean 1957-2017
+
+# Reference points
+
+```{r ssbandf,  fig.width=12, fig.height=5, out.width="95%", dpi=250}
+(plot(fbar(fit)) +
+  geom_hline(yintercept=c(refpts$Flim), color="red", size=0.25)+
+    geom_text(x=ISOdate(1957,1,1), y=c(refpts$Flim + 0.02), label=expression(F[lim])) +
+  geom_hline(yintercept=c(refpts$F05), linetype=3) +
+    geom_text(x=ISOdate(1957,1,1), y=c(refpts$F05 + 0.02), label=expression(F[PA])) +
+  geom_hline(yintercept=c(refpts$Fmsy), linetype=2) +
+    geom_text(x=ISOdate(1957,1,1), y=c(refpts$Fmsy + 0.02), label=expression(F[MSY])) +
+  ylim(c(0,NA)) + ylab("F (ages 2-6)")) +
+
+(plot(ssb(fit)) +
+  geom_hline(yintercept=c(refpts$Bpa), color="red", size=0.25) +
+    geom_text(x=ISOdate(1957,1,1), y=c(refpts$Bpa - 2500), label=expression(B[PA]),
+     hjust="inward") +
+  geom_hline(yintercept=c(refpts$Btrigger), linetype=3) +
+    geom_text(x=ISOdate(1957,1,1), y=c(refpts$Btrigger + 2000),
+       label=expression(MSYB[trigger]), hjust="inward") +
+  geom_hline(yintercept=c(refpts$Blim), linetype=2) +
+    geom_text(x=ISOdate(1957,1,1), y=c(refpts$Blim + 2000), label=expression(B[lim]), hjust="inward") +
+  ylim(c(0,NA)) + ylab("SSB (tonnes)"))
+```
+
+```{r refpts}
+dat <- as.data.frame(refpts, drop=TRUE)
+dat[, 'data'] <- icesRound(dat[, 'data'])
+colnames(dat) <- c("", "")
+
+d <- as.data.frame(t(dat[1:8,]))
+rownames(d) <- NULL
+colnames(d) <- NULL
+
+kable_styling(
+kable(d, format.args = list(big.mark = ",")),
+  position = "center")
+```
+
+# Catch options
+
+\Tiny
+
+```{r}
+
+cnames <- c(basis="Basis", catch="Catch", wanted="Wanted",
+    unwanted="Unwanted", F="F(2-6)",
+    Fwanted="Wanted", Funwanted= "Unwanted", 
+    SSB="SSB (2022)", ssbchange="%SSB", tacchange="%TAC",
+    advicechange="%Advice")
+
+colnames(tab_options) <- cnames
+
+add_header_above(kable(tab_options), c(" ", "(2022)"=3, "(2022)"=3, "(2023)",
+  "(2023/2022)", "(2022/2021)"=2))
+```
+
+# Stock projection
+
+```{r fig.width=8, fig.height=6, out.width="85%", dpi=250}
+
+mets <- metrics(runs$Fmsy)
+
+mets$F[,'2023'] <- NA
+mets$Catch[,'2023'] <- NA
+names(mets)[4] <- "F (age 2-6)"
+
+plot(mets) + geom_vline(xintercept=2020, alpha=0.4) +
+  geom_vline(xintercept=2022, alpha=0.2) +
+  annotate("rect", xmin = 2020, xmax = 2023, ymin = -Inf, ymax = Inf,
+  fill = "#FF9900", alpha=0.1)
+```
+
+# Uncertainty in SSB
+
+\fig[0.85]{model_ssbmc.png}
