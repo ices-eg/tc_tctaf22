@@ -36,4 +36,4 @@ plot(FLStocks(RUN=runs$Fmsy, MC=runsmc$Fmsy))
 
 # SAVE
 
-save(runsmc, file="model/runsmc.Rdata")
+save(runsmc, file="model/runsmc.Rdata", compress="xz")
