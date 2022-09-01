@@ -8,14 +8,13 @@
 
 library(icesTAF)
 
-library(AAP)
+library(FLa4a)
 library(ggplotFL)
 library(patchwork)
 
-load("model/runs.RData")
-load("model/runsmc.RData")
-
-load("data/aap.RData")
+load("model/runs.Rdata")
+load("model/runsmc.Rdata")
+load("data/model.Rdata")
 
 dimnames(refpts)$params[1] <- "Btrigger / Bpa"
 
@@ -39,7 +38,7 @@ vline <- geom_vline(xintercept=dy + 0.5, linetype=1, colour="#464A54")
 
 mc <- as.data.frame(FLQuantPoint(mean=ssb(run), median=quantile(ssb(runmc), c(0.50)),
   lowq=quantile(ssb(runmc), c(0.05)), uppq=quantile(ssb(runmc), c(0.95))))
-ap <- as.data.frame(ssb(fit))
+ap <- as.data.frame(ssb(run))
 
 dat <- rbindlist(list(McMC=mc, AAP=ap), idcol="method")
 

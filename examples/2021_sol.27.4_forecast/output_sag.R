@@ -103,12 +103,8 @@ xmlfile <- createSAGxml(info, fishdata)
 
 capture.output(print(xmlfile, quote=FALSE), file="output/sol_27_4.xml")
 
-# UPLOAD 
+# UPLOAD: requires token
 # key <- icesSAG::uploadStock(info, fishdata)
 
 # CHECK
-
-key <- findAssessmentKey('sol.27.4', 2021, full = FALSE)
-
-sumtab <- data.table(icesSAG::getSummaryTable(key)[[1]])
-
+# key <- findAssessmentKey('sol.27.4', 2021, full = FALSE)

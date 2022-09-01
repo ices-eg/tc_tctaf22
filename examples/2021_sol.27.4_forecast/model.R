@@ -112,6 +112,7 @@ catch_options <- list(
 )
 
 # F0, 2023
+F0 <- FLQuants(fbar=FLQuant(0, dimnames=list(age='all', year=fy + 1)))
 
 # CONVERT to fwdControl
 
@@ -140,7 +141,8 @@ f_runs <- divide(fwd(fut, sr=gmsrr, control=control), names=flevels)
 
 # SAVE
 
-save(runs, f_runs, rec1gm, tac, advice, file="model/runs.Rdata")
+save(runs, f_runs, rec1gm, tac, advice, file="model/runs.Rdata",
+  compress="xz")
 
 # McMC
 

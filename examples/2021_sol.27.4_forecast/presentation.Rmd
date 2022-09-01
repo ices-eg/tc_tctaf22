@@ -24,9 +24,9 @@ library(AAP)
 ```
 
 ```{r data}
-load('../output/aap.RData', verbose=FALSE)
-load("../model/runs.RData", verbose=FALSE)
-load('../output/tables.RData', verbose=FALSE)
+load('../output/aap.Rdata', verbose=FALSE)
+load("../model/runs.Rdata", verbose=FALSE)
+load('../output/tables.Rdata', verbose=FALSE)
 dy <- dims(run)$maxyear
 ay <- dy + 1
 fy <- ay + 1
