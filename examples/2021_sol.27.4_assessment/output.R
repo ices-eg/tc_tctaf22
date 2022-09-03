@@ -7,9 +7,9 @@
 # Distributed under the terms of the EUPL-1.2
 
 
-library(icesTAF)
-library(FLa4a)
-library(flextable)
+taf.library(icesTAF)
+taf.library(FLa4a)
+taf.library(flextable)
 
 source("utilities.R")
 

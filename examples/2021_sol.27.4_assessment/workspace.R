@@ -1,11 +1,13 @@
 # bootstrap.R - Install packages and setup data
-# 2021_sol.27.4_assessment/bootstrap.R
+# 2021_sol.27.4_assessment/workspace.R
 
 # Copyright Iago MOSQUEIRA (WMR), 2022
 # Author: Iago MOSQUEIRA (WMR) <iago.mosqueira@wur.nl>
 #
 # Distributed under the terms of the EUPL-1.2
 
+
+library(icesTAF)
 
 # INITIAL setup
 
@@ -20,8 +22,8 @@ install.packages(pkgs, repos=c(
     ICES="https://ices-tools-prod.r-universe.dev/",
     CRAN="https://cloud.r-project.org"))
 
-# BOOT
+draft.software(c("FLCore", "FLasher", "FLa4a", "a4adiags"), file=TRUE)
 
-library(icesTAF)
+# BOOT
 
 taf.bootstrap(software = TRUE, data = TRUE)

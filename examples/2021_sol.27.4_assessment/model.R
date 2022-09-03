@@ -7,10 +7,10 @@
 # Distributed under the terms of the EUPL-1.2
 
 
-library(icesTAF)
-library(icesAdvice)
-library(FLa4a)
-library(a4adiags)
+taf.library(icesTAF)
+taf.library(icesAdvice)
+taf.library(FLa4a)
+taf.library(a4adiags)
 
 mkdir("model")
 

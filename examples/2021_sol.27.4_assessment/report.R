@@ -7,21 +7,21 @@
 # Distributed under the terms of the EUPL-1.2
 
 
-library(icesTAF)
+taf.library(icesTAF)
 
 mkdir("report")
 
 # COPY external figures
 cp("bootstrap/initial/report/*", "report/")
 
-library(FLCore)
-library(FLa4a)
-library(ggplotFL)
+taf.library(FLCore)
+taf.library(FLa4a)
+taf.library(ggplotFL)
 
-library(data.table)
-library(rmarkdown)
-library(patchwork)
-library(ggrepel)
+taf.library(data.table)
+taf.library(rmarkdown)
+taf.library(patchwork)
+taf.library(ggrepel)
 
 # INPUT
 
