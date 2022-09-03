@@ -22,7 +22,7 @@ Reproducible Science, Best Practices and the ICES Transparent Assessment Framewo
 - Demonstrations will be run in [RStudio Desktop 2022.07.1+554](
 https://www.rstudio.com/products/rstudio/download/#download). If you use Rtudio make sure it is recent version, or reinstall the very latest.
 - Your own account in [github](https://github.com).
-- Optional: Rtools
+- Optional: Rtools, to be able to reinstall packages that migt be updated.
 
 ## INSTALLATION
 
@@ -41,7 +41,7 @@ install.packages(pkgs, repos=c(
 
 - Report any problems using the [repository issue system](https://github.com/ices-eg/tc_tctaf22/issues), or by email.
 
-- You can clone or fork the course material repository at <https://github.com/ices-eg/tc_tctaf22>.
+- Please clone the course material repository at <https://github.com/ices-eg/tc_tctaf22>.
 
 ## Bring
 
