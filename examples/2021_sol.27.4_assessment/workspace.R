@@ -13,7 +13,7 @@ library(icesTAF)
 
 pkgs <- c("data.table", "flextable", "officedown", "doParallel",
   "ggrepel", "patchwork", "icesdown", "icesAdvice", "icesTAF",
-  "FLCore", "FLFishery", "FLasher", "FLa4a", "ggplotFL", "a4adiags")
+  "FLCore", "FLa4a", "ggplotFL", "a4adiags")
 
 # INSTALL from CRAN and r-universe
 
@@ -22,7 +22,7 @@ install.packages(pkgs, repos=c(
     ICES="https://ices-tools-prod.r-universe.dev/",
     CRAN="https://cloud.r-project.org"))
 
-draft.software(c("FLCore", "FLasher", "FLa4a", "a4adiags"), file=TRUE)
+draft.software(c("FLCore", "FLa4a", "a4adiags"), file=TRUE)
 
 # BOOT
 
