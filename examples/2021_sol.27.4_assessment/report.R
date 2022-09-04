@@ -16,11 +16,11 @@ cp("bootstrap/initial/data/report/*", "report/")
 
 taf.library(FLCore)
 taf.library(FLa4a)
-taf.library(ggplotFL)
+library(ggplotFL)
 
-taf.library(data.table)
-taf.library(patchwork)
-taf.library(ggrepel)
+library(data.table)
+library(patchwork)
+library(ggrepel)
 
 # INPUT
 

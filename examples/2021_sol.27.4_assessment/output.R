@@ -8,9 +8,9 @@
 
 
 library(icesTAF)
-taf.library(FLa4a)
 library(flextable)
 library(icesdown)
+taf.library(FLa4a)
 
 mkdir("output")
 

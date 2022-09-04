@@ -8,8 +8,8 @@
 
 library(icesTAF)
 
-taf.library(icesTAF)
-taf.library(data.table)
+library(icesTAF)
+library(data.table)
 taf.library(FLCore)
 taf.library(FLa4a)
 

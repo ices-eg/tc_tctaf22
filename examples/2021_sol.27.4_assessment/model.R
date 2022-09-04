@@ -8,8 +8,8 @@
 
 library(icesTAF)
 
-taf.library(icesTAF)
-taf.library(icesAdvice)
+library(icesTAF)
+library(icesAdvice)
 taf.library(FLa4a)
 taf.library(a4adiags)
 
