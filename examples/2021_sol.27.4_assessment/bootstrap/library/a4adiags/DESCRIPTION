@@ -1,0 +1,33 @@
+Package: a4adiags
+Title: Additional Diagnostics for FLa4a stock Assessment Models
+Version: 0.1.5
+Authors@R: c( person("Iago", "Mosqueira", email = "iago.mosqueira@wur.nl", role = c("aut", "cre"), comment = c(ORCID =
+              "0000-0002-3252-0591")), person("Henning", "Winker", email = "henning.winker@ec.europa.eu", role = c("aut")),
+              person("European Union", role = c("fnd", "cph")))
+Description: A series of extra diagnostics for the FLa4a model, including prediction skill through restrospective prediction of
+              model inputs and runs tests. Contains ggplot-based plot funtions of diagnostics outputs.
+License: EUPL
+Encoding: UTF-8
+Depends: R(>= 3.5.0), ggplot2, FLCore, ggplotFL, FLa4a
+Imports: methods, FLasher, data.table, foreach
+Suggests: knitr, rmarkdown, doParallel, icesAdvice
+Additional_repositories: http://flr-project.org/R
+LazyData: true
+VignetteBuilder: knitr
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: a4adiags
+RemoteUsername: flr
+RemoteRef: cf49b5f
+RemoteSha: cf49b5f03345a87f43dbd1a8047c290f54caceba
+GithubRepo: a4adiags
+GithubUsername: flr
+GithubRef: cf49b5f
+GithubSHA1: cf49b5f03345a87f43dbd1a8047c290f54caceba
+Author: Iago Mosqueira [aut, cre] (<https://orcid.org/0000-0002-3252-0591>),
+  Henning Winker [aut],
+  European Union [fnd, cph]
+Maintainer: Iago Mosqueira <iago.mosqueira@wur.nl>
+Built: R 4.2.1; ; 2022-09-04 15:08:22 UTC; unix

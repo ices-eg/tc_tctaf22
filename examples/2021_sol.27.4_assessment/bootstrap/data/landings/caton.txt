@@ -1,0 +1,8 @@
+Catch category:Landings
+sol.27.4
+1 1
+2021 2021
+0 10
+5
+in tonnes
+8,241.503       

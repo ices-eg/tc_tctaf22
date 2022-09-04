@@ -1,0 +1,9 @@
+a4ahcxval               Compute a retrospective hindcast
+                        cross-validation of a4a stock and indices
+plotRunstest,a4aFitSA,FLIndices-method
+                        Plot the runs test result for one or more time
+                        series
+runstest,a4aFitSA,FLIndices-method
+                        Computes Runs Test p-values
+sol274                  Data from the 2020 ICES stock assessment of
+                        North Sea sole (sol.27.4)

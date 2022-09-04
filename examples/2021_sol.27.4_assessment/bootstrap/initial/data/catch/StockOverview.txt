@@ -1,0 +1,546 @@
+Country	Season	Season type	Year	Stock	Area	Fleets	Effort	UnitEffort	Catch. kg	Catch Cat.	Report cat.	Discards Imported Or Raised
+Denmark	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	dop	0.00	Discards	R-Reported	Imported
+Denmark	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	dop	1081.00	Landings	R-Reported	Imported
+Denmark	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	73186	kWd	2.02	Discards	R-Reported	Raised Discard
+Denmark	3	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	-9	NA	0.00	Discards	R-Reported	Imported
+Denmark	1	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	-9	NA	0.00	Discards	R-Reported	Imported
+France	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0	59326	kWd	15.63	Landings	R-Reported	Imported
+France	4	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0	1316089	kWd	19.06	Landings	R-Reported	Imported
+France	3	Quarter	2020	sol.27.4	27.4	GTR_DEF_90-99_0_0_all	24722	kWd	5671.71	Landings	R-Reported	Imported
+France	1	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0	980025	kWd	142.20	Landings	R-Reported	Imported
+France	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0	115944	kWd	48.36	Landings	R-Reported	Imported
+France	4	Quarter	2020	sol.27.4	27.4	GTR_DEF_90-99_0_0_all	26319	kWd	5274.82	Landings	R-Reported	Imported
+France	2	Quarter	2020	sol.27.4	27.4	GTR_DEF_90-99_0_0_all	38755	kWd	9837.64	Landings	R-Reported	Imported
+UK(Scotland)	2020	Year	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	172487	kWd	255.00	Landings	R-Reported	Imported
+France	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	810	kWd	63.47	Discards	R-Reported	Raised Discard
+Netherlands	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_100-119_0_0_all	111938	kWd	0.00	Discards	R-Reported	Raised Discard
+Germany	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	37551	kWd	4982.00	Landings	R-Reported	Imported
+Germany	3	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	1190245	kWd	11.00	Landings	R-Reported	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	80443	kWd	10470.00	Landings	R-Reported	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	654.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+Denmark	4	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	dop	0.02	Discards	R-Reported	Raised Discard
+Denmark	3	Quarter	2020	sol.27.4	27.4	SDN_DEF_>=120_0_0_all	34040	kWd	0.01	Discards	R-Reported	Raised Discard
+Denmark	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_>=220_0_0_all	13054	kWd	1963.19	Discards	R-Reported	Raised Discard
+Denmark	3	Quarter	2020	sol.27.4	27.4	GNS_DEF_100-119_0_0_all	1470	kWd	4.94	Discards	R-Reported	Raised Discard
+Denmark	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_>=220_0_0_all	1270	kWd	182.50	Discards	R-Reported	Raised Discard
+Denmark	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	dop	0.05	Discards	R-Reported	Raised Discard
+Denmark	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	dop	0.33	Discards	R-Reported	Raised Discard
+Denmark	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	103203	kWd	1034.17	Discards	R-Reported	Raised Discard
+Netherlands	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	322315	kWd	70.21	Discards	R-Reported	Raised Discard
+Netherlands	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	8168	kWd	1.03	Discards	R-Reported	Raised Discard
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	MIS_MIS_0_0_0_HC	14365	kWd	10.95	Discards	R-Reported	Raised Discard
+Sweden	3	Quarter	2020	sol.27.4	27.4.b	MIS_MIS_0_0_0_IBC	224339	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	125047	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	122026	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.b	MIS_MIS_0_0_0_IBC	13800	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	103786	kWd	0.00	Landings	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	917	kWd	420.00	Landings	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	835732	kWd	120.00	Landings	R-Reported	Imported
+UK(Scotland)	2020	Year	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	1618705	kWd	100.00	Discards	R-Reported	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_16-31_0_0_all	-9	NA	10.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all_FDF	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	102.00	Landings	A-All - reported, nonre	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.b	SSC_DEF_32-69_0_0_all	32400	kWd	0.16	Discards	R-Reported	Raised Discard
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	OTB_DEF_32-69_0_0_all	63350	kWd	0.00	Discards	R-Reported	Raised Discard
+Belgium	2	Quarter	2020	sol.27.4	27.4.b	SSC_DEF_32-69_0_0_all	20400	kWd	0.33	Discards	R-Reported	Raised Discard
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_70-99_0_0_all	21078	kWd	4015.44	Discards	R-Reported	Raised Discard
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	SSC_DEF_70-99_0_0_all	39600	kWd	0.98	Discards	R-Reported	Raised Discard
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	SSC_DEF_32-69_0_0_all	34800	kWd	0.33	Discards	R-Reported	Raised Discard
+Belgium	3	Quarter	2020	sol.27.4	27.4.b	TBB_DEF_>=120_0_0_all	171600	kWd	6.28	Discards	R-Reported	Raised Discard
+Belgium	2	Quarter	2020	sol.27.4	27.4.b	TBB_DEF_>=120_0_0_all	104400	kWd	0.55	Discards	R-Reported	Raised Discard
+Belgium	1	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_70-99_0_0_all	20995	kWd	1761.66	Discards	R-Reported	Raised Discard
+Belgium	4	Quarter	2020	sol.27.4	27.4.b	SSC_DEF_70-99_0_0_all	9600	kWd	0.33	Discards	R-Reported	Raised Discard
+Belgium	4	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_100-119_0_0_all	4641	kWd	0.14	Discards	R-Reported	Raised Discard
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	GTR_DEF_all_0_0_all	9460	kWd	699.42	Discards	R-Reported	Raised Discard
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_70-99_0_0_all	9382	kWd	9093.59	Discards	R-Reported	Raised Discard
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	TBB_CRU_16-31_0_0_all	45619	kWd	4457.64	Discards	R-Reported	Raised Discard
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	GNS_DEF_all_0_0_all	2640	kWd	140.69	Discards	R-Reported	Raised Discard
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	TBB_CRU_16-31_0_0_all	158474	kWd	9706.96	Discards	R-Reported	Raised Discard
+Denmark	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_100-119_0_0_all	54521	kWd	15448.19	Discards	R-Reported	Raised Discard
+Denmark	4	Quarter	2020	sol.27.4	27.4	GNS_DEF_120-219_0_0_all	105806	kWd	216.88	Discards	R-Reported	Raised Discard
+France	1	Quarter	2020	sol.27.4	27.4	GTR_DEF_120-219_0_0_all	221	kWd	5.39	Discards	R-Reported	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all_FDF	-9	NA	203.27	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all_FDF	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+Netherlands	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	95617	kWd	0.00	Discards	R-Reported	Imported
+Netherlands	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	60175	kWd	0.00	Discards	R-Reported	Imported
+Netherlands	2	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	45804	kWd	0.00	Discards	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	181077	kWd	883.71	Discards	R-Reported	Imported
+Denmark	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	dop	1315.00	Landings	R-Reported	Imported
+Denmark	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	73186	kWd	602.00	Landings	R-Reported	Imported
+Denmark	2	Quarter	2020	sol.27.4	27.4	SSC_DEF_>=120_0_0_all	-9	NA	0.00	Discards	R-Reported	Imported
+Denmark	1	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	-9	NA	33.00	Landings	R-Reported	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	-9	NA	1.00	Landings	R-Reported	Imported
+France	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0	1184415	kWd	2.67	Discards	R-Reported	Raised Discard
+France	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0	284129	kWd	0.00	Discards	R-Reported	Raised Discard
+France	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	810	kWd	224.99	Landings	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_100-119_0_0_all	111938	kWd	5790.00	Landings	R-Reported	Imported
+France	2	Quarter	2020	sol.27.4	27.4	GTR_DEF_120-219_0_0_all	1394	kWd	11.24	Discards	R-Reported	Raised Discard
+France	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	810	kWd	19.97	Discards	R-Reported	Raised Discard
+France	1	Quarter	2020	sol.27.4	27.4	GTR_DEF_90-99_0_0_all	53521	kWd	3164.88	Discards	R-Reported	Raised Discard
+France	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0	1496927	kWd	5.46	Discards	R-Reported	Raised Discard
+France	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0	34144	kWd	0.00	Discards	R-Reported	Raised Discard
+UK(Scotland)	2020	Year	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	210528	kWd	245.99	Discards	R-Reported	Raised Discard
+Denmark	4	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	dop	5.00	Landings	R-Reported	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	SDN_DEF_>=120_0_0_all	34040	kWd	4.00	Landings	R-Reported	Imported
+Denmark	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_>=220_0_0_all	13054	kWd	8735.00	Landings	R-Reported	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	GNS_DEF_100-119_0_0_all	1470	kWd	22.00	Landings	R-Reported	Imported
+Denmark	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_>=220_0_0_all	1270	kWd	812.00	Landings	R-Reported	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	dop	14.00	Landings	R-Reported	Imported
+Denmark	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	dop	96.00	Landings	R-Reported	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	103203	kWd	290.00	Landings	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	322315	kWd	20940.00	Landings	R-Reported	Imported
+Netherlands	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	8168	kWd	390.00	Landings	R-Reported	Imported
+Germany	3	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	2832	kWd	0.00	Landings	R-Reported	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	989994	kWd	9818.00	Discards	R-Reported	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	MIS_MIS_0_0_0_HC	14365	kWd	3201.00	Landings	R-Reported	Imported
+Germany	4	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	5005	kWd	227.45	Discards	R-Reported	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	0.01	Discards	A-All - reported, nonre	Raised Discard
+Denmark	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_100-119_0_0_all	54521	kWd	68735.00	Landings	R-Reported	Imported
+Denmark	4	Quarter	2020	sol.27.4	27.4	GNS_DEF_120-219_0_0_all	105806	kWd	965.00	Landings	R-Reported	Imported
+France	1	Quarter	2020	sol.27.4	27.4	GTR_DEF_120-219_0_0_all	221	kWd	24.00	Landings	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	122026	kWd	0.00	Landings	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.b	MIS_MIS_0_0_0_IBC	729937	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.b	MIS_MIS_0_0_0_IBC	13800	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	28980	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	125047	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.b	MIS_MIS_0_0_0_IBC	224339	kWd	0.00	Landings	R-Reported	Imported
+UK(Scotland)	2020	Year	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	1618705	kWd	60.00	Landings	R-Reported	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all_FDF	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all_FDF	-9	NA	57.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all_FDF	-9	NA	88.00	Landings	A-All - reported, nonre	Imported
+Belgium	3	Quarter	2020	sol.27.4	27.4.b	TBB_DEF_>=120_0_0_all	171600	kWd	1873.00	Landings	R-Reported	Imported
+Belgium	2	Quarter	2020	sol.27.4	27.4.b	TBB_DEF_>=120_0_0_all	104400	kWd	163.00	Landings	R-Reported	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	OTB_DEF_32-69_0_0_all	63350	kWd	27.00	Landings	R-Reported	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.b	SSC_DEF_32-69_0_0_all	32400	kWd	1.00	Landings	R-Reported	Imported
+Belgium	1	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_70-99_0_0_all	20995	kWd	494.00	Landings	R-Reported	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.b	SSC_DEF_70-99_0_0_all	9600	kWd	2.00	Landings	R-Reported	Imported
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	GNS_DEF_all_0_0_all	2640	kWd	626.00	Landings	R-Reported	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_100-119_0_0_all	4641	kWd	55.00	Landings	R-Reported	Imported
+Belgium	2	Quarter	2020	sol.27.4	27.4.b	SSC_DEF_32-69_0_0_all	20400	kWd	2.00	Landings	R-Reported	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_70-99_0_0_all	21078	kWd	1126.00	Landings	R-Reported	Imported
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	GTR_DEF_all_0_0_all	9460	kWd	3112.00	Landings	R-Reported	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	SSC_DEF_70-99_0_0_all	39600	kWd	6.00	Landings	R-Reported	Imported
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_70-99_0_0_all	9382	kWd	2550.00	Landings	R-Reported	Imported
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	TBB_CRU_16-31_0_0_all	45619	kWd	1250.00	Landings	R-Reported	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	SSC_DEF_32-69_0_0_all	34800	kWd	2.00	Landings	R-Reported	Imported
+France	1	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	186	kWd	0.90	Discards	R-Reported	Raised Discard
+Germany	4	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	1141287	kWd	7.13	Discards	R-Reported	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all_FDF	-9	NA	570.58	Discards	A-All - reported, nonre	Raised Discard
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_70-99_0_0_all	663	kWd	39.23	Discards	R-Reported	Raised Discard
+Sweden	3	Quarter	2020	sol.27.4	27.4.b	SDN_DEF_>=120_0_0_all	3995	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.b	SDN_DEF_>=120_0_0_all	8453	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	7209	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	6526	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	dop	1754.00	Landings	R-Reported	Imported
+Denmark	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	dop	1965.00	Landings	R-Reported	Imported
+Denmark	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_IBC	1	kWd	54.00	Landings	R-Reported	Imported
+Denmark	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	dop	0.00	Discards	R-Reported	Imported
+Denmark	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_32-69_0_0_all	-9	NA	0.00	Discards	R-Reported	Imported
+Denmark	4	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	-9	NA	0.00	Discards	R-Reported	Imported
+France	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0	59326	kWd	0.00	Discards	R-Reported	Raised Discard
+Netherlands	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	393516	kWd	20350.00	Landings	R-Reported	Imported
+France	3	Quarter	2020	sol.27.4	27.4	GTR_DEF_90-99_0_0_all	24722	kWd	1274.72	Discards	R-Reported	Raised Discard
+France	1	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0	980025	kWd	0.49	Discards	R-Reported	Raised Discard
+France	4	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0	1316089	kWd	0.07	Discards	R-Reported	Raised Discard
+France	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0	115944	kWd	0.00	Discards	R-Reported	Raised Discard
+France	4	Quarter	2020	sol.27.4	27.4	GTR_DEF_90-99_0_0_all	26319	kWd	1185.52	Discards	R-Reported	Raised Discard
+France	2	Quarter	2020	sol.27.4	27.4	GTR_DEF_90-99_0_0_all	38755	kWd	2211.01	Discards	R-Reported	Raised Discard
+UK(Scotland)	2020	Year	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	172487	kWd	0.86	Discards	R-Reported	Raised Discard
+Denmark	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	94386	kWd	58.00	Landings	R-Reported	Imported
+Denmark	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_100-119_0_0_all	15011	kWd	9578.00	Landings	R-Reported	Imported
+Denmark	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	51686	kWd	190.00	Landings	R-Reported	Imported
+Denmark	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_120-219_0_0_all	200683	kWd	18194.00	Landings	R-Reported	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_IBC	1	kWd	6.00	Landings	R-Reported	Imported
+Denmark	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	36127	kWd	76.00	Landings	R-Reported	Imported
+Denmark	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	85732	kWd	1043.00	Landings	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	58918	kWd	100.00	Landings	R-Reported	Imported
+Netherlands	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_100-119_0_0_all	75576	kWd	24990.00	Landings	R-Reported	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	1878	kWd	25.00	Landings	R-Reported	Imported
+Germany	3	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	1190245	kWd	24542.00	Discards	R-Reported	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	150.00	Landings	A-All - reported, nonre	Imported
+UK(Northern Ireland)	2	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_70-99_0_0_all	1399	kWd	12.00	Landings	R-Reported	Imported
+Germany	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	37551	kWd	1119.70	Discards	R-Reported	Raised Discard
+Germany	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	80443	kWd	2353.13	Discards	R-Reported	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	2.19	Discards	A-All - reported, nonre	Raised Discard
+Denmark	4	Quarter	2020	sol.27.4	27.4	SDN_DEF_>=120_0_0_all	32077	kWd	20.00	Landings	R-Reported	Imported
+Denmark	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_120-219_0_0_all	205009	kWd	10529.00	Landings	R-Reported	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	GNS_DEF_>=220_0_0_all	29897	kWd	386.00	Landings	R-Reported	Imported
+France	3	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	147	kWd	24.00	Landings	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	103786	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.b	MIS_MIS_0_0_0_IBC	224339	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.b	MIS_MIS_0_0_0_IBC	729937	kWd	0.00	Landings	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	122026	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	28980	kWd	0.00	Landings	R-Reported	Imported
+UK(Scotland)	2020	Year	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	10495580	kWd	44559.00	Landings	R-Reported	Imported
+UK(Scotland)	2020	Year	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	13397394	kWd	892.00	Landings	R-Reported	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all_FDF	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all_FDF	-9	NA	62.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all_FDF	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.b	TBB_DEF_>=120_0_0_all	754024	kWd	25943.00	Landings	R-Reported	Imported
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	OTB_DEF_32-69_0_0_all	63211	kWd	6.00	Landings	R-Reported	Imported
+Belgium	3	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_100-119_0_0_all	198946	kWd	456.00	Landings	R-Reported	Imported
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	MIS_MIS_0_0_0_HC	13481	kWd	1434.00	Landings	R-Reported	Imported
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	GTR_DEF_all_0_0_all	3960	kWd	845.00	Landings	R-Reported	Imported
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	SSC_DEF_70-99_0_0_all	15600	kWd	4.00	Landings	R-Reported	Imported
+Belgium	2	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_70-99_0_0_all	42874	kWd	533.00	Landings	R-Reported	Imported
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_70-99_0_0_all	12828	kWd	1158.00	Landings	R-Reported	Imported
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	GNS_DEF_all_0_0_all	7260	kWd	2241.00	Landings	R-Reported	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	TBB_CRU_16-31_0_0_all	151844	kWd	1383.00	Landings	R-Reported	Imported
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	SSC_DEF_70-99_0_0_all	70800	kWd	14.00	Landings	R-Reported	Imported
+Belgium	3	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_70-99_0_0_all	140466	kWd	4985.00	Landings	R-Reported	Imported
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	GTR_DEF_all_0_0_all	2420	kWd	748.00	Landings	R-Reported	Imported
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_16-31_0_0_all	1846	kWd	3.00	Landings	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	917	kWd	94.40	Discards	R-Reported	Raised Discard
+Netherlands	1	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	835732	kWd	427.93	Discards	R-Reported	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_16-31_0_0_all	-9	NA	35.66	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	0.35	Discards	A-All - reported, nonre	Raised Discard
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	65656	kWd	0.00	Landings	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	50091	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	21955	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_32-69_0_0_all	3978	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	dop	0.00	Discards	R-Reported	Imported
+Denmark	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	dop	0.00	Discards	R-Reported	Imported
+Denmark	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_IBC	1	kWd	0.18	Discards	R-Reported	Raised Discard
+Denmark	2	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	-9	NA	0.00	Discards	R-Reported	Imported
+Denmark	4	Quarter	2020	sol.27.4	27.4	SSC_DEF_>=120_0_0_all	-9	dop	0.00	Discards	R-Reported	Imported
+France	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0	1184415	kWd	779.77	Landings	R-Reported	Imported
+France	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0	284129	kWd	30.72	Landings	R-Reported	Imported
+France	4	Quarter	2020	sol.27.4	27.4	GTR_DEF_90-99_0_0_all	26319	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+France	2	Quarter	2020	sol.27.4	27.4	GTR_DEF_120-219_0_0_all	1394	kWd	50.00	Landings	R-Reported	Imported
+France	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	810	kWd	119.50	Landings	R-Reported	Imported
+France	1	Quarter	2020	sol.27.4	27.4	GTR_DEF_90-99_0_0_all	53521	kWd	14081.80	Landings	R-Reported	Imported
+France	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0	1496927	kWd	1594.56	Landings	R-Reported	Imported
+France	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0	34144	kWd	165.75	Landings	R-Reported	Imported
+UK(Scotland)	2020	Year	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	210528	kWd	1512.00	Landings	R-Reported	Imported
+Netherlands	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	393516	kWd	68.23	Discards	R-Reported	Raised Discard
+Germany	4	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	5005	kWd	1012.00	Landings	R-Reported	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	989994	kWd	41.00	Landings	R-Reported	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	2.00	Landings	A-All - reported, nonre	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	94386	kWd	0.19	Discards	R-Reported	Raised Discard
+Denmark	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_100-119_0_0_all	15011	kWd	2152.66	Discards	R-Reported	Raised Discard
+Denmark	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	51686	kWd	677.56	Discards	R-Reported	Raised Discard
+Denmark	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_120-219_0_0_all	200683	kWd	4089.10	Discards	R-Reported	Raised Discard
+Denmark	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_IBC	1	kWd	0.02	Discards	R-Reported	Raised Discard
+Denmark	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	36127	kWd	271.02	Discards	R-Reported	Raised Discard
+Denmark	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	85732	kWd	3.50	Discards	R-Reported	Raised Discard
+Netherlands	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	58918	kWd	0.26	Discards	R-Reported	Raised Discard
+Netherlands	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_100-119_0_0_all	75576	kWd	0.00	Discards	R-Reported	Raised Discard
+Germany	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	1878	kWd	0.08	Discards	R-Reported	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	0.51	Discards	A-All - reported, nonre	Raised Discard
+UK(Northern Ireland)	2	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_70-99_0_0_all	1399	kWd	42.79	Discards	R-Reported	Raised Discard
+France	1	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	186	kWd	4.00	Landings	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.b	MIS_MIS_0_0_0_IBC	13800	kWd	0.00	Landings	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	28980	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	103786	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.b	MIS_MIS_0_0_0_IBC	729937	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	MIS_MIS_0_0_0_IBC	125047	kWd	0.00	Landings	R-Reported	Imported
+Germany	4	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	1141287	kWd	2.00	Landings	R-Reported	Imported
+UK(Scotland)	2020	Year	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	13397394	kWd	26.00	Discards	R-Reported	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all_FDF	-9	NA	160.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_16-31_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.b	TBB_DEF_>=120_0_0_all	754024	kWd	87.00	Discards	R-Reported	Imported
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_70-99_0_0_all	663	kWd	11.00	Landings	R-Reported	Imported
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	OTB_DEF_32-69_0_0_all	63211	kWd	0.00	Discards	R-Reported	Raised Discard
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	SSC_DEF_70-99_0_0_all	15600	kWd	0.65	Discards	R-Reported	Raised Discard
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_70-99_0_0_all	12828	kWd	4129.56	Discards	R-Reported	Raised Discard
+UK(Scotland)	2020	Year	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	10495580	kWd	152.45	Discards	R-Reported	Raised Discard
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	SSC_DEF_70-99_0_0_all	70800	kWd	2.28	Discards	R-Reported	Raised Discard
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_16-31_0_0_all	1846	kWd	10.70	Discards	R-Reported	Raised Discard
+Belgium	3	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_100-119_0_0_all	198946	kWd	1.20	Discards	R-Reported	Raised Discard
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	MIS_MIS_0_0_0_HC	13481	kWd	4.91	Discards	R-Reported	Raised Discard
+Belgium	2	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_70-99_0_0_all	42874	kWd	1900.74	Discards	R-Reported	Raised Discard
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	GNS_DEF_all_0_0_all	7260	kWd	503.66	Discards	R-Reported	Raised Discard
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	TBB_CRU_16-31_0_0_all	151844	kWd	4931.93	Discards	R-Reported	Raised Discard
+Belgium	3	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_70-99_0_0_all	140466	kWd	17777.07	Discards	R-Reported	Raised Discard
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	GTR_DEF_all_0_0_all	2420	kWd	168.11	Discards	R-Reported	Raised Discard
+Belgium	1	Quarter	2020	sol.27.4	27.4.c	GTR_DEF_all_0_0_all	3960	kWd	189.91	Discards	R-Reported	Raised Discard
+Denmark	4	Quarter	2020	sol.27.4	27.4	SDN_DEF_>=120_0_0_all	32077	kWd	0.07	Discards	R-Reported	Raised Discard
+Denmark	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_120-219_0_0_all	205009	kWd	2366.39	Discards	R-Reported	Raised Discard
+Denmark	3	Quarter	2020	sol.27.4	27.4	GNS_DEF_>=220_0_0_all	29897	kWd	86.75	Discards	R-Reported	Raised Discard
+France	3	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	147	kWd	5.39	Discards	R-Reported	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all_FDF	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+Netherlands	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	2828389	kWd	290352.07	Discards	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	4426708	kWd	326798.31	Discards	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	365825	kWd	0.00	Discards	R-Reported	Imported
+Netherlands	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	5149602	kWd	161495.36	Discards	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	89989	kWd	624.12	Discards	R-Reported	Imported
+Netherlands	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	296848	kWd	0.00	Discards	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	7209	kWd	0.00	Landings	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	6526	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	112346	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	65656	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	50091	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	SDN_DEF_>=120_0_0_all	5786	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	37771	kWd	0.00	Landings	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	SDN_DEF_>=120_0_0_all	2695	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	21955	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	35269	kWd	0.00	Landings	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.b	SDN_DEF_>=120_0_0_all	3995	kWd	0.00	Landings	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	49564	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.b	SDN_DEF_>=120_0_0_all	8453	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	21454	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Germany	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	329470	kWd	37599.00	Discards	R-Reported	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	395075	kWd	0.00	BMS landing	R-Reported	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	57703.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	5306.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	3.00	Landings	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	1215.00	Discards	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	589.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	NA	2.00	Landings	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	13785.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	42.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	2153.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	67.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	340.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	3.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	498.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	12017.90	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	LLS_FIF_0_0_0_all	-9	NA	0.32	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	0.01	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	805.95	Discards	A-All - reported, nonre	Raised Discard
+Norway	2	Quarter	2020	sol.27.4	27.4.a	GNS_DEF_all_0_0_all	-9	NA	2.92	Discards	R-Reported	Raised Discard
+Norway	1	Quarter	2020	sol.27.4	27.4.a	SSC_DEF_>=120_0_0_all	-9	NA	0.02	Discards	R-Reported	Raised Discard
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	TBB_CRU_16-31_0_0_all	131041	kWd	17548.84	Discards	R-Reported	Raised Discard
+Belgium	2	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_100-119_0_0_all	106724	kWd	0.01	Discards	R-Reported	Raised Discard
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_16-31_0_0_all	1988	kWd	21.40	Discards	R-Reported	Raised Discard
+Netherlands	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	55482	kWd	0.00	Discards	R-Reported	Raised Discard
+Netherlands	2	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	688527	kWd	41331.25	Discards	R-Reported	Raised Discard
+Netherlands	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_100-119_0_0_all	130995	kWd	0.00	Discards	R-Reported	Raised Discard
+Netherlands	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	89319	kWd	0.00	Discards	R-Reported	Raised Discard
+Netherlands	4	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	1215997	kWd	11661.19	Discards	R-Reported	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	416.46	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	1992.63	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	8.68	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	222.50	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	0.01	Discards	A-All - reported, nonre	Raised Discard
+Germany	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	85930	kWd	1301.63	Discards	R-Reported	Raised Discard
+Germany	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	449902	kWd	41692.00	Discards	R-Reported	Imported
+Germany	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	360250	kWd	311132.00	Landings	R-Reported	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_IBC	80608	kWd	10.00	Landings	R-Reported	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	23.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+Germany	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	291262	kWd	0.29	Discards	R-Reported	Raised Discard
+Netherlands	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_100-119_0_0_all	418054	kWd	0.00	Discards	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	4791023	kWd	319240.74	Discards	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	21955	kWd	0.00	Landings	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	39172	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	35269	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	112346	kWd	0.00	Landings	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	21454	kWd	0.00	Landings	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	11751	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.b	SDN_DEF_>=120_0_0_all	4408	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	7209	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.b	SDN_DEF_>=120_0_0_all	3995	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	SDN_DEF_>=120_0_0_all	5786	kWd	0.00	Landings	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	50091	kWd	0.00	Landings	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_32-69_0_0_all	3978	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	37771	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Germany	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	342150	kWd	0.00	Discards	R-Reported	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	395075	kWd	182680.00	Landings	R-Reported	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	5.00	Landings	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	19040.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	26.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	40878.00	Landings	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	2591.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	403.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	322.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	501.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	2224.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	15806.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	2.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	112950.00	Landings	A-All - reported, nonre	Imported
+Belgium	2020	Year	2020	sol.27.4	27.4.c	TBB_DEF_70-99_0_0_all	406345	kWd	51315.00	Discards	R-Reported	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	0.84	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	299.55	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	SDN_all_0_0_all	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	7881.11	Discards	A-All - reported, nonre	Raised Discard
+Norway	2	Quarter	2020	sol.27.4	27.4.a	SSC_DEF_>=120_0_0_all	-9	NA	0.01	Discards	R-Reported	Raised Discard
+Norway	4	Quarter	2020	sol.27.4	27.4.a	SSC_DEF_>=120_0_0_all	-9	NA	0.01	Discards	R-Reported	Raised Discard
+Norway	1	Quarter	2020	sol.27.4	27.4.a	GNS_DEF_all_0_0_all	-9	NA	0.17	Discards	R-Reported	Raised Discard
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	GTR_DEF_all_0_0_all	7040	kWd	302.06	Discards	R-Reported	Raised Discard
+Belgium	4	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_70-99_0_0_all	42843	kWd	18543.79	Discards	R-Reported	Raised Discard
+Netherlands	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	883860	kWd	67.90	Discards	R-Reported	Raised Discard
+Netherlands	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	127728	kWd	11.80	Discards	R-Reported	Raised Discard
+Netherlands	3	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	1088493	kWd	77955.23	Discards	R-Reported	Raised Discard
+Netherlands	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	92799	kWd	0.00	Discards	R-Reported	Raised Discard
+Netherlands	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	1634286	kWd	13.81	Discards	R-Reported	Raised Discard
+Netherlands	3	Quarter	2020	sol.27.4	27.4	SSC_DEF_100-119_0_0_all	19998	kWd	4.88	Discards	R-Reported	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	5844.86	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	LLS_FIF_0_0_0_all	-9	NA	0.01	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	0.12	Discards	A-All - reported, nonre	Raised Discard
+Germany	2	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	53686	kWd	748.88	Discards	R-Reported	Raised Discard
+Germany	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	360250	kWd	0.00	BMS landing	R-Reported	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	348637	kWd	257.00	Landings	R-Reported	Imported
+Germany	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	74588	kWd	1697.00	Landings	R-Reported	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	229.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	12.00	Landings	A-All - reported, nonre	Imported
+Denmark	3	Quarter	2020	sol.27.4	27.4	GNS_DEF_120-219_0_0_all	180663	kWd	123.16	Discards	R-Reported	Raised Discard
+Sweden	4	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	49564	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	11751	kWd	0.00	Landings	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.b	SDN_DEF_>=120_0_0_all	4408	kWd	0.00	Landings	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	37771	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	65656	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_32-69_0_0_all	3978	kWd	0.00	Landings	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	39172	kWd	0.00	Landings	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	35269	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	SDN_DEF_>=120_0_0_all	2695	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	883860	kWd	20250.00	Landings	R-Reported	Imported
+Netherlands	2	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	45804	kWd	140.00	Landings	R-Reported	Imported
+Netherlands	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_100-119_0_0_all	418054	kWd	470.00	Landings	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	4791023	kWd	1364560.00	Landings	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	181077	kWd	6820.00	Landings	R-Reported	Imported
+Netherlands	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	127728	kWd	4480.00	Landings	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	1088493	kWd	21860.00	Landings	R-Reported	Imported
+Netherlands	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	92799	kWd	7620.00	Landings	R-Reported	Imported
+Netherlands	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	1634286	kWd	4120.00	Landings	R-Reported	Imported
+Netherlands	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	95617	kWd	2660.00	Landings	R-Reported	Imported
+Netherlands	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	60175	kWd	1270.00	Landings	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	SSC_DEF_100-119_0_0_all	19998	kWd	30.00	Landings	R-Reported	Imported
+Germany	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	329470	kWd	0.00	BMS landing	R-Reported	Imported
+Germany	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	342150	kWd	592.00	Landings	R-Reported	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	252.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	84.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	SDN_all_0_0_all	-9	NA	1.00	Landings	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	1639.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	LLS_FIF_0_0_0_all	-9	NA	2.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	6517.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	1.00	Landings	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	631.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	LLS_FIF_0_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	2210.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	NA	0.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	45.00	Landings	A-All - reported, nonre	Imported
+Norway	2	Quarter	2020	sol.27.4	27.4.a	SSC_DEF_>=120_0_0_all	-9	NA	2.30	Landings	R-Reported	Imported
+Norway	4	Quarter	2020	sol.27.4	27.4.a	SSC_DEF_>=120_0_0_all	-9	NA	2.70	Landings	R-Reported	Imported
+Norway	1	Quarter	2020	sol.27.4	27.4.a	GNS_DEF_all_0_0_all	-9	NA	0.77	Landings	R-Reported	Imported
+Belgium	2020	Year	2020	sol.27.4	27.4.c	TBB_DEF_70-99_0_0_all	406345	kWd	185656.00	Landings	R-Reported	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.c	GTR_DEF_all_0_0_all	7040	kWd	1344.00	Landings	R-Reported	Imported
+Belgium	4	Quarter	2020	sol.27.4	27.4.b	OTB_CRU_70-99_0_0_all	42843	kWd	5200.00	Landings	R-Reported	Imported
+Belgium	3	Quarter	2020	sol.27.4	27.4.c	TBB_CRU_16-31_0_0_all	158474	kWd	2722.00	Landings	R-Reported	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	13778.37	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	1192.52	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	3098.18	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	0.01	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	-9	NA	0.01	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	9.44	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	5.67	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	1.31	Discards	A-All - reported, nonre	Raised Discard
+Denmark	3	Quarter	2020	sol.27.4	27.4	GNS_DEF_120-219_0_0_all	180663	kWd	548.00	Landings	R-Reported	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	53686	kWd	210.00	Landings	R-Reported	Imported
+Germany	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_IBC	29691	kWd	55.00	Landings	R-Reported	Imported
+Germany	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	85954	kWd	0.00	BMS landing	R-Reported	Imported
+Germany	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	449902	kWd	0.00	BMS landing	R-Reported	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	LLS_FIF_0_0_0_all	-9	NA	230.00	Landings	A-All - reported, nonre	Imported
+Germany	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	85954	kWd	9004.44	Discards	R-Reported	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	2.33	Discards	A-All - reported, nonre	Raised Discard
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	SDN_DEF_>=120_0_0_all	2695	kWd	0.00	Landings	R-Reported	Imported
+Sweden	1	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	112346	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	21454	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_>=120_0_0_all	39172	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.a	OTB_DEF_>=120_0_0_all	49564	kWd	0.00	Landings	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.b	SDN_DEF_>=120_0_0_all	8453	kWd	0.00	Landings	R-Reported	Imported
+Sweden	2	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	6526	kWd	0.00	Landings	R-Reported	Imported
+Sweden	3	Quarter	2020	sol.27.4	27.4.a	SDN_DEF_>=120_0_0_all	5786	kWd	0.00	BMS landing	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.a	OTB_CRU_32-69_0_0_all	11751	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Sweden	4	Quarter	2020	sol.27.4	27.4.b	SDN_DEF_>=120_0_0_all	4408	kWd	0.00	Logbook Registered Discard	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	4426708	kWd	1938320.00	Landings	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	55482	kWd	7790.00	Landings	R-Reported	Imported
+Netherlands	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	5149602	kWd	2453450.00	Landings	R-Reported	Imported
+Netherlands	2	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	688527	kWd	11590.00	Landings	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_100-119_0_0_all	130995	kWd	36410.00	Landings	R-Reported	Imported
+Netherlands	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	2828389	kWd	1029300.00	Landings	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	89319	kWd	870.00	Landings	R-Reported	Imported
+Netherlands	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	296848	kWd	360.00	Landings	R-Reported	Imported
+Netherlands	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	89989	kWd	320.00	Landings	R-Reported	Imported
+Netherlands	4	Quarter	2020	sol.27.4	27.4	TBB_CRU_16-31_0_0_all	1215997	kWd	3270.00	Landings	R-Reported	Imported
+Netherlands	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	365825	kWd	1910.00	Landings	R-Reported	Imported
+Germany	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	85930	kWd	365.00	Landings	R-Reported	Imported
+Germany	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	329470	kWd	129861.00	Landings	R-Reported	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	395075	kWd	0.00	Discards	R-Reported	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	2.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	182579.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	1853.00	Landings	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	5406.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	LLS_FIF_0_0_0_all	-9	NA	93.00	Landings	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	3.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	8866.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	SDN_all_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	4	Quarter	2020	sol.27.4	27.4	GTR_DEF_all_0_0_all	-9	NA	3586.00	Landings	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	4.00	Landings	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	LLS_FIF_0_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	2588.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	GNS_DEF_all_0_0_all	-9	NA	990.00	Landings	A-All - reported, nonre	Imported
+UK (England)	1	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	3.00	Landings	A-All - reported, nonre	Imported
+Norway	2	Quarter	2020	sol.27.4	27.4.a	GNS_DEF_all_0_0_all	-9	NA	13.00	Landings	R-Reported	Imported
+Norway	1	Quarter	2020	sol.27.4	27.4.a	SSC_DEF_>=120_0_0_all	-9	NA	7.20	Landings	R-Reported	Imported
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	TBB_CRU_16-31_0_0_all	131041	kWd	4921.00	Landings	R-Reported	Imported
+Belgium	2	Quarter	2020	sol.27.4	27.4.b	OTB_DEF_100-119_0_0_all	106724	kWd	4.00	Landings	R-Reported	Imported
+Belgium	2	Quarter	2020	sol.27.4	27.4.c	OTB_CRU_16-31_0_0_all	1988	kWd	6.00	Landings	R-Reported	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	0.02	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	11531.11	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_100-119_0_0_all	-9	NA	6.83	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	-9	NA	1786.62	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_HC	-9	NA	0.09	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	TBB_DEF_>=120_0_0_all	-9	NA	1.08	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	OTB_DEF_70-99_0_0_all	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	SSC_DEF_All_0_0_All	-9	NA	0.01	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	-9	NA	18872.19	Discards	A-All - reported, nonre	Raised Discard
+Germany	4	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	291262	kWd	109.00	Landings	R-Reported	Imported
+Germany	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	85954	kWd	2525.00	Landings	R-Reported	Imported
+Germany	3	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	449902	kWd	267085.00	Landings	R-Reported	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	LLS_FIF_0_0_0_all	-9	NA	0.00	BMS landing	A-All - reported, nonre	Imported
+UK (England)	3	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	681.00	Landings	A-All - reported, nonre	Imported
+Germany	2	Quarter	2020	sol.27.4	27.4	OTB_DEF_>=120_0_0_all	348637	kWd	0.68	Discards	R-Reported	Raised Discard
+Germany	3	Quarter	2020	sol.27.4	27.4	OTB_CRU_70-99_0_0_all	74588	kWd	6051.69	Discards	R-Reported	Raised Discard
+Germany	3	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_IBC	29691	kWd	0.19	Discards	R-Reported	Raised Discard
+UK (England)	3	Quarter	2020	sol.27.4	27.4	LLS_FIF_0_0_0_all	-9	NA	0.79	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	1	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	0.78	Discards	A-All - reported, nonre	Raised Discard
+UK (England)	4	Quarter	2020	sol.27.4	27.4	OTB_CRU_100-119_0_0_all	-9	NA	0.00	Discards	A-All - reported, nonre	Raised Discard
+Germany	4	Quarter	2020	sol.27.4	27.4	TBB_DEF_70-99_0_0_all	360250	kWd	20479.64	Discards	R-Reported	Raised Discard
+Germany	2	Quarter	2020	sol.27.4	27.4	MIS_MIS_0_0_0_IBC	80608	kWd	0.03	Discards	R-Reported	Raised Discard
+UK (England)	2	Quarter	2020	sol.27.4	27.4	FPO_CRU_0_0_0_all	-9	NA	0.08	Discards	A-All - reported, nonre	Raised Discard

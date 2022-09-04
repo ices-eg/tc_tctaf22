@@ -1,0 +1,8 @@
+Catch category:Discards
+sol.27.4
+1 1
+2021 2021
+0 9
+5
+in tonnes
+958.881         

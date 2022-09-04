@@ -1,0 +1,44 @@
+Package: FLasher
+Title: Projection and Forecasting of Fish Populations, Stocks and
+        Fleets
+Description: Projection of future population and fishery dynamics is carried out for a given set of management targets. A system of
+              equations is solved, using Automatic Differentation (AD), for the levels of effort by fishery (fleet) that will
+              result in the required abundances, catches or fishing mortalities.
+X-schema.org-keywords: forecast, fisheries, flr, R
+Version: 0.7.0
+Authors@R: c( person(given = 'Iago', family = 'Mosqueira', role = c('aut', 'cre'), email = 'iago.mosqueira@wur.nl'), person(given =
+              'Finlay', family = 'Scott', role = c('aut'), email = 'finlay.scott@ec.europa.eu'))
+Copyright: European Union
+Depends: R(>= 3.5.0), FLCore(> 2.6.5), FLFishery(>= 0.1), ggplotFL
+Imports: methods, Rcpp (>= 0.12.0), rlang, ggplot2
+LinkingTo: Rcpp
+SystemRequirements: C++11
+Byarch: false
+Additional_repositories: http://flr-project.org/R
+Suggests: testthat, knitr, rmarkdown, covr
+Collate: classes.R generics.R accessors.R methods.R utilities.R fwd.R
+        ffwd.R constructors.R RcppExports.R test_helper_functions.R
+        rcpp_plugin.R data.R coerce.R window.R fcb_draw.R FLasherLib.R
+        plot.R
+License: EUPL
+VignetteBuilder: knitr
+LazyData: No
+NeedsCompilation: Yes
+Biarch: FALSE
+BugReports: https://github.com/flr/FLasher/issues
+RoxygenNote: 7.2.1
+Encoding: UTF-8
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: FLasher
+RemoteUsername: flr
+RemoteRef: a7032ce
+RemoteSha: a7032ce597d9ee3b99fa6b135829377218ed3838
+GithubRepo: FLasher
+GithubUsername: flr
+GithubRef: a7032ce
+GithubSHA1: a7032ce597d9ee3b99fa6b135829377218ed3838
+Author: Iago Mosqueira [aut, cre],
+  Finlay Scott [aut]
+Maintainer: Iago Mosqueira <iago.mosqueira@wur.nl>
+Built: R 4.2.1; x86_64-pc-linux-gnu; 2022-09-04 15:04:52 UTC; unix
