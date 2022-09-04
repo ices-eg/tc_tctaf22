@@ -6,6 +6,7 @@
 #
 # Distributed under the terms of the EUPL-1.2
 
+library(icesTAF)
 
 taf.library(icesTAF)
 taf.library(data.table)
