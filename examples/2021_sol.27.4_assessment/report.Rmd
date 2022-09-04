@@ -36,8 +36,6 @@ sy <- ac(npy + 4) # ssb
 
 # Sole (Solea solea) in Subarea 27.4 (North Sea)
 
-Test [@ICES2020a] a ref.
-
 ## General
 
 The assessment of sole in Subarea 27.4 is an update of last year's model run. This is the result of applying the methodology agreed at the last benchmark, carried out in February 2020 (ICES WKFLATNSCS, 2020). The adopted assessment model is the AAP statistical catch-at-age model of Aarts & Poos (2009), already applied in the past. The model uses two indices of abundance: the Sole Net Survey (SNS), covering the coastal areas of the Southern North Sea, and a combined index based on the BTS Q3 survey, including data from The Netherlands, Belgium and Germany. This index covers the full area of distribution of the stock. Further details about the implementation of the BTS survey and changes to the stock assessment model can be found in the benchmark report (ICES WKFLATNSCS, 2020).
@@ -146,9 +144,9 @@ aapconf <- data.frame(
 autofit(colformat_num(flextable(aapconf), big.mark=""))
 ```
 
-A summary of the assessment results (recruitment, F and SSB, including confidence bounds) is presented in Figure \@ref(fig:fit). The estimates of spawning biomass and corresponding recruitment at age 1 are shown in Figure \@ref(fig:recssb). The proportion of spawning biomass estimated to be accounted for by age and year is presented in Figure \@ref(fig:propssb). A plot of log-standardized residuals of the model fit to the four data sources employed (the two indices of abundance, landings, and discards at age) is presented in Figure \@ref(fig:residsource). The runs test for both indices (Carvalho et al, 2021) are presented in Figure \@ref(fig:runstest) for the overall biomass, and Figure \@ref(fig:runstestages) for the numbers at age. Patterns were found to be non-random for ages 2 and 3 on the BTS survey only.
+A summary of the assessment results (recruitment, F and SSB, including confidence bounds) is presented in Figure \@ref(fig:fit). The estimates of spawning biomass and corresponding recruitment at age 1 are shown in Figure \@ref(fig:recssb). The proportion of spawning biomass estimated to be accounted for by age and year is presented in Figure \@ref(fig:propssb). A plot of log-standardized residuals of the model fit to the four data sources employed (the two indices of abundance, landings, and discards at age) is presented in Figure \@ref(fig:residsource). The runs test for both indices [@Carvalho_2021] are presented in Figure \@ref(fig:runstest) for the overall biomass, and Figure \@ref(fig:runstestages) for the numbers at age. Patterns were found to be non-random for ages 2 and 3 on the BTS survey only.
 
-The retrospective patterns for recruitment, spawning biomass and fishing mortality are summarized in Figure \@ref(fig:retro). Figure \@ref(fig:xval) presents the results of an analysis of prediction skills by means of hindcasting cross-validation (carried out following Carvalho et al, 2021).
+The retrospective patterns for recruitment, spawning biomass and fishing mortality are summarized in Figure \@ref(fig:retro). Figure \@ref(fig:xval) presents the results of an analysis of prediction skills by means of hindcasting cross-validation (carried out following @Carvalho_2021).
 
 Yearly estimates of abundances and fishing mortality-at-age obtained by the model run are presented in Tables \@ref(tab:tstockn) and \@ref(tab:tharvest), respectively.
 
@@ -168,11 +166,11 @@ Short-term forecasts were carried out from the abundances estimated by the asses
 
 Fishing mortality in the intermediate year, `r iy`, was set as equaql to that estimated in `r dy`.
 
-Forecasts were carried out using the FLR toolset[^3] (Kell *et al.*, 2007), and in particular the FLasher package[^4] (Scott and Mosqueira, 2016). Source code for this analysis is available at the corresponding TAF repository[^5]
+Forecasts were carried out using the FLR toolset[^3] [@Kell_2007], and in particular the FLasher package[^4] (Scott and Mosqueira, 2016). Source code for this analysis is available at the corresponding TAF repository[^5]
 
 [^3]: <https://flr-project.org>
 [^4]: <https://flr-project.org/FLasher>
-[^5]: <https://github.com/ices-taf/2021_sol.27.4_forecast/>
+[^5]: <https://github.com/ices-taf/2022_sol.27.4_forecast/>
 
 The projections carried out were those necessary to populate the stock catch options table, as summarized here:
 
@@ -204,8 +202,9 @@ The reference points for sole in Subarea 4 have been updated at the recent bench
 | MSY Btrigger | `r sprintf("%.0f", c(refpts$Btrigger))` t | MSY               |
 | MSY range Flower | `r paste(icesRound(refpts[c('lFmsy','Fmsy')]), collapse="-")` | Consistent with ranges provided by ICES (2017a), resulting in no more than 5% reduction in long-term yield compared with MSY |
 | MSY range Fupper |  `r paste(icesRound(refpts[c('Fmsy','uFmsy')]), collapse="-")` | Consistent with ranges provided by ICES (2017a), resulting in no more than 5% reduction in long-term yield compared with MSY |
+|------------------|-----------------------|-------------------|
 
-An error on the value selected for the upper limit of the $F_{MSY}$ range has been corrected. The upper value should have been limited by the value of $F_{pa}$ but it was not.
+An error on the value selected for the upper limit of the $F_{MSY}$ range has been corrected. The upper value should have been limited by the value of $F_{pa}$.
 
 ## Quality of the assessment
 
@@ -227,15 +226,14 @@ Limitations on time and data did now allow any work on the effect and suitabilit
 
 ## References
 
-Carvalho, F., Winker, H. Courtney, D., Kapur, M., Kell, L.T., Cardinale, M., Schirripa, M., Kitakado, T., Yemane, D., Piner, K. R., Maunder, M.N., Taylor, I., Wetzel, C.R., Doering, K., Johnson, K. F., Methot, R.D. 2021. A cookbook for using model diagnostics in integrated stock assessments. Fisheries Research 240.
+::: {#refs}
+:::
 
 ICES WGELECTRA. 2018. Report of the Working Group on Electric Trawling (WGELECTRA). ICES Report WGELECTRA 2018 17 - 19 April 2018. IJmuiden, The Netherlands. 155pp.
 
 ICES WKFLATNSCS. 2020. Benchmark Workshop for Flatfish stocks in the North Sea and Celtic Sea (WKFlatNSCS). ICES Scientific Reports. 2:23. 966 pp. http://doi.org/10.17895/ices.pub.5976
 
 ICES WKMSYREF3. 2014. Report of the Joint ICES-MYFISH Workshop to consider the basis for FMSY ranges for all stocks (WKMSYREF3), 17–21 November 2014, Charlottenlund, Denmark. ICES CM 2014/ACOM:64. 147 pp.
-
-Kell, L. T., Mosqueira, I., Grosjean, P., Fromentin, J-M., Garcia, D., Hillary, R., Jardim, E., Mardle, S., Pastoors, M. A., Poos, J. J., Scott, F., and Scott, R. D. 2007. FLR: an open-source framework for the evaluation and development of management strategies. – ICES Journal of Marine Science, 64: 640–646. <https://doi.org/10.1093/icesjms/fsm012>
 
 Scott, F, Mosqueira, I. 2016. Bioeconomic Modelling for Fisheries. EUR-Scientific and Technical Research Reports. Publications Office of the European Union. doi:(10.2788/722156)[http://publications.jrc.ec.europa.eu/repository/handle/JRC104842].
 
