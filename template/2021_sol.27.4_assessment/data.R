@@ -7,10 +7,10 @@
 # Distributed under the terms of the EUPL-1.2
 
 
-library(icesTAF)
-library(data.table)
-library(FLCore)
-library(FLa4a)
+taf.library(icesTAF)
+taf.library(data.table)
+taf.library(FLCore)
+taf.library(FLa4a)
 
 mkdir("data")
 
