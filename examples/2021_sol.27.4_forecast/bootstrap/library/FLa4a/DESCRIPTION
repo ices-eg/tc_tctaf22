@@ -1,0 +1,44 @@
+Package: FLa4a
+Type: Package
+Title: A Simple and Robust Statistical Catch at Age Model
+Version: 1.8.3
+Authors@R: c( person("Colin P.", "Millar", email = "colin.millar@ices.dk", role = "aut"), person("Ernesto", "Jardim", email =
+              "ernesto.jardim@msc.org", role = c("aut", "cre")))
+Description: A simple and robust statistical Catch at Age model that is specifically designed for stocks with intermediate levels
+              of data quantity and quality.
+License: EUPL
+Imports: methods, lattice, Matrix, copula, coda, grid, gridExtra,
+        latticeExtra, mgcv
+Depends: R (>= 4.0), FLCore (>= 2.6.15), triangle,
+Additional_repositories: http://flr-project.org/R
+Suggests: knitr, formatR, XML, reshape2, testthat
+LazyLoad: yes
+LazyData: yes
+VignetteBuilder: knitr
+Collate: 'FLCompMethods.R' 'FLModelSimMethods.R' 'a4aM-class.R'
+        'a4aM-methods.R' 'a4aGr-class.R' 'a4aGr-methods.R'
+        'a4aStkParams-class.R' 'submodel-class.R' 'submodels-class.R'
+        'SCAPars-class.R' 'SCAMCMC-class.R' 'a4aFit-class.R'
+        'a4aFitSA-class.R' 'a4aFitSAs-class.R' 'a4aFitMCMC-class.R'
+        'a4aFitresiduals-class.R' 'coef-methods.R' 'vcov-methods.R'
+        'predict-methods.R' 'simulate-methods.R' 'addition-methods.R'
+        'internal.R' 'data.R' 'redfish-data.R' 'setupModel.R'
+        'fittingFunctions.R' 'l2a-methods.R' 'ma-methods.R'
+        'utilities.R' 'gen-methods.R' 'southern_hake-data.R'
+        'a4amse-sa.R' 'a4aFitCatchDiagn-class.R'
+RoxygenNote: 7.2.1
+Encoding: UTF-8
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: FLa4a
+RemoteUsername: flr
+RemoteRef: 1da4b9c
+RemoteSha: 1da4b9c434977c1a92703d3ca6dc9ab53aa3a7eb
+GithubRepo: FLa4a
+GithubUsername: flr
+GithubRef: 1da4b9c
+GithubSHA1: 1da4b9c434977c1a92703d3ca6dc9ab53aa3a7eb
+Author: Colin P. Millar [aut],
+  Ernesto Jardim [aut, cre]
+Maintainer: Ernesto Jardim <ernesto.jardim@msc.org>
+Built: R 4.2.1; ; 2022-09-04 17:30:48 UTC; unix

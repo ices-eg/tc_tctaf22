@@ -1,0 +1,10 @@
+FLCatch                 FLCatch constructor
+FLCatches               FLCatches constructor
+FLFisheries             FLFisheries constructor
+FLFishery               Classes and Methods for Modeling of Fishing
+                        Fleets
+FLFisherycpp            An internal class for homogeneous fishing
+                        fleets
+harvests                Methods to calculate fishing mortalities
+nsfishery               Simulated fisheries data for fisheries
+                        exploiting North sea plaice and sole.

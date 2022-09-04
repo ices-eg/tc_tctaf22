@@ -10,13 +10,15 @@
 library(icesTAF)
 library(icesAdvice)
 
-library(FLa4a)
+taf.library(FLa4a)
 
 library(officer)
 library(flextable)
 library(data.table)
 
 mkdir("output")
+
+source("utilities.R")
 
 # LOAD assessment and forecast results
 

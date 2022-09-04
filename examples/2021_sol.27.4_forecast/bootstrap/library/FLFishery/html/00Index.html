@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html>
+<head><title>R: Classes and Methods for Simpler Fleet/Fishery Modelling</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body><div class="container">
+<h1> Classes and Methods for Simpler Fleet/Fishery Modelling
+<img class="toplogo" src="../../../doc/html/Rlogo.svg" alt="[R logo]" />
+</h1>
+<hr/>
+<div style="text-align: center;">
+<a href="../../../doc/html/packages.html"><img class="arrow" src="../../../doc/html/left.jpg" alt="[Up]" /></a>
+<a href="../../../doc/html/index.html"><img class="arrow" src="../../../doc/html/up.jpg" alt="[Top]" /></a>
+</div><h2>Documentation for package &lsquo;FLFishery&rsquo; version 0.3.8</h2>
+
+<ul><li><a href="../DESCRIPTION">DESCRIPTION file</a>.</li>
+<li><a href="../NEWS">Package NEWS</a>.</li>
+</ul>
+
+<h2>Help Pages</h2>
+
+
+<p style="text-align: center;">
+<a href="#C">C</a>
+<a href="#D">D</a>
+<a href="#E">E</a>
+<a href="#F">F</a>
+<a href="#H">H</a>
+<a href="#I">I</a>
+<a href="#L">L</a>
+<a href="#N">N</a>
+<a href="#O">O</a>
+<a href="#P">P</a>
+<a href="#R">R</a>
+<a href="#S">S</a>
+<a href="#V">V</a>
+<a href="#misc">misc</a>
+</p>
+
+
+<h2><a id="C">-- C --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="FLFishery.html">capacity</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">capacity-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">capacity-method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">capacity&lt;-</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">capacity&lt;--method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">capacity&lt;--method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">catch-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisheries.html">catch-method</a></td>
+<td>FLFisheries constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">catch-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">catch.n-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisheries.html">catch.n-method</a></td>
+<td>FLFisheries constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">catch.n-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">catch.q-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">catch.q&lt;--method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">catch.sel-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">catch.sel&lt;-</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">catch.sel&lt;--method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">catch.wt-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisheries.html">catch.wt-method</a></td>
+<td>FLFisheries constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">catch.wt-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">ccost-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">cost-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">crewshare</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">crewshare-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">crewshare-method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">crewshare&lt;-</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">crewshare&lt;--method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">crewshare&lt;--method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+</table>
+
+<h2><a id="D">-- D --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="FLCatch.html">desc-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">desc&lt;--method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">discards-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisheries.html">discards-method</a></td>
+<td>FLFisheries constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">discards-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">discards.n-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">discards.n&lt;--method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">discards.ratio</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">discards.ratio-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">discards.sel-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">discards.wt-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">discards.wt&lt;--method</a></td>
+<td>FLCatch constructor</td></tr>
+</table>
+
+<h2><a id="E">-- E --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="FLFishery.html">effort-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">effort-method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">effort&lt;--method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">effort&lt;--method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+</table>
+
+<h2><a id="F">-- F --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="harvest.html">fbar-method</a></td>
+<td>Methods to calculate fishing mortalities</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">fcost-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">fcost-method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">fcost&lt;--method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">fcost&lt;--method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">FLCatch</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">FLCatch-class</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">FLCatch-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">FLCatch-methods</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatches.html">FLCatches</a></td>
+<td>FLCatches constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatches.html">FLCatches-class</a></td>
+<td>FLCatches constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatches.html">FLCatches-method</a></td>
+<td>FLCatches constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatches.html">FLCatches-methods</a></td>
+<td>FLCatches constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisheries.html">FLFisheries</a></td>
+<td>FLFisheries constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisheries.html">FLFisheries-class</a></td>
+<td>FLFisheries constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisheries.html">FLFisheries-method</a></td>
+<td>FLFisheries constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisheries.html">FLFisheries-methods</a></td>
+<td>FLFisheries constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">FLFishery</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">FLFishery-class</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">FLFishery-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">FLFishery-methods</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">FLFisherycpp</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">FLFisherycpp-class</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">FLFisherycpp-methods</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+</table>
+
+<h2><a id="H">-- H --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="harvest.html">harvest</a></td>
+<td>Methods to calculate fishing mortalities</td></tr>
+<tr><td style="width: 25%;"><a href="harvest.html">harvest-method</a></td>
+<td>Methods to calculate fishing mortalities</td></tr>
+<tr><td style="width: 25%;"><a href="harvest.html">harvests</a></td>
+<td>Methods to calculate fishing mortalities</td></tr>
+<tr><td style="width: 25%;"><a href="harvest.html">harvests-method</a></td>
+<td>Methods to calculate fishing mortalities</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">hperiod</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">hperiod-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">hperiod-method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">hperiod&lt;-</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">hperiod&lt;--method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">hperiod&lt;--method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+</table>
+
+<h2><a id="I">-- I --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="FLFishery.html">iter-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">iter&lt;--method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+</table>
+
+<h2><a id="L">-- L --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="FLCatch.html">landings-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisheries.html">landings-method</a></td>
+<td>FLFisheries constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">landings-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">landings.n-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">landings.n&lt;--method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">landings.sel-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">landings.wt-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisheries.html">landings.wt-method</a></td>
+<td>FLFisheries constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">landings.wt-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">landings.wt&lt;--method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">lrevenue</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">lrevenue-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">lrevenue-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+</table>
+
+<h2><a id="N">-- N --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="FLCatch.html">name-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">name&lt;--method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="nsfishery.html">nsfishery</a></td>
+<td>Simulated fisheries data for fisheries exploiting North sea plaice and sole.</td></tr>
+<tr><td style="width: 25%;"><a href="nsfishery.html">nsfleet</a></td>
+<td>Simulated fisheries data for fisheries exploiting North sea plaice and sole.</td></tr>
+</table>
+
+<h2><a id="O">-- O --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="FLFishery.html">orevenue</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">orevenue-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">orevenue-method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">orevenue&lt;-</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">orevenue&lt;--method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">orevenue&lt;--method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+</table>
+
+<h2><a id="P">-- P --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="nsfishery.html">ple</a></td>
+<td>Simulated fisheries data for fisheries exploiting North sea plaice and sole.</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">plot-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">price-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">price&lt;--method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">profit-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">propagate-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+</table>
+
+<h2><a id="R">-- R --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="FLCatch.html">range-method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLCatch.html">range&lt;--method</a></td>
+<td>FLCatch constructor</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">revenue-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+</table>
+
+<h2><a id="S">-- S --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="nsfishery.html">sol</a></td>
+<td>Simulated fisheries data for fisheries exploiting North sea plaice and sole.</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">summary-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+</table>
+
+<h2><a id="V">-- V --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="FLFishery.html">vcost-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">vcost-method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">vcost&lt;--method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFisherycpp.html">vcost&lt;--method</a></td>
+<td>An internal class for homogeneous fishing fleets</td></tr>
+</table>
+
+<h2><a id="misc">-- misc --</a></h2>
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="FLFishery.html">[-method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+<tr><td style="width: 25%;"><a href="FLFishery.html">[[&lt;--method</a></td>
+<td>Classes and Methods for Modeling of Fishing Fleets</td></tr>
+</table>
+</div></body></html>

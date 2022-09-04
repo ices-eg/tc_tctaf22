@@ -8,7 +8,7 @@
 
 
 library(icesTAF)
-library(FLasher)
+taf.library(FLasher)
 
 mkdir("model")
 

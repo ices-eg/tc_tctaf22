@@ -1,0 +1,33 @@
+Package: FLFishery
+Title: Classes and Methods for Simpler Fleet/Fishery Modelling
+Version: 0.3.8
+Date: 2021-11-21
+Authors@R: c( person("Iago", "Mosqueira", email = "iago.mosqueira@wur.nl", role = c("cre", "aut")))
+Description: A set of classes and methods for modelling of fleet dynamics. Fisheries are groups of vessels sharing an effort time
+              series, with static or changing spatio-temporal patterns in selectivity.
+X-schema.org-keywords: fisheries, flr, R
+Depends: R(>= 4.0), methods, FLCore(>= 2.6.16), ggplotFL
+Imports: ggplot2
+Suggests: knitr, testthat, rmarkdown
+Additional_repositories: http://flr-project.org/R
+License: EUPL
+LazyLoad: Yes
+LazyData: No
+Collate: FLFishery.R generics.R classes.R accessors.R computation.R
+        coerce.R constructors.R methods.R getPlural.R plot.R harvest.R
+        oem.R data.R
+VignetteBuilder: knitr
+RoxygenNote: 7.2.1
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: FLFishery
+RemoteUsername: flr
+RemoteRef: b944ce7
+RemoteSha: b944ce78845e5af10793bdeac077e73c0628988b
+GithubRepo: FLFishery
+GithubUsername: flr
+GithubRef: b944ce7
+GithubSHA1: b944ce78845e5af10793bdeac077e73c0628988b
+Author: Iago Mosqueira [cre, aut]
+Maintainer: Iago Mosqueira <iago.mosqueira@wur.nl>
+Built: R 4.2.1; ; 2022-09-04 17:27:16 UTC; unix
