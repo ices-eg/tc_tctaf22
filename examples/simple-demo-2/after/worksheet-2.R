@@ -109,15 +109,15 @@ taf.bootstrap()
 # create the script: bootstrap/file-from-sharepoint.R
 
 # find the directory we want to access
-# spdir(site = "/TrainingCourses/TCTAF22/")
-# spdir("Exercises", site = "/TrainingCourses/TCTAF22/")
+#spdir(site = "/TrainingCourses/TCTAF22/")
+#spdir("Exercises", site = "/TrainingCourses/TCTAF22/")
 
-# spgetfile(
+#spgetfile(
 #  "Exercises/test.csv",
 #  "/TrainingCourses/TCTAF22/",
 #  "https://community.ices.dk",
 #  "."
-# )
+#)
 
 
 # create the entry in DATA.bib
