@@ -1,0 +1,3 @@
+library(icesTAF)
+
+taf.skeleton(".")
