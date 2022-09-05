@@ -1,5 +1,8 @@
 # lets set up the TAF project now:
 library(icesTAF)
+
+taf.skeleton(".")
+
 # bring in a local file from elsewhere (institute network, shared drive, dropbox)
 # -------
 
@@ -21,21 +24,21 @@ draft.data(
 
 # check bootstrap works as we expect: i.e. copy data from:
 # bootstrap initial data -> bootstrap data
-taf.bootstrap(software = FALSE)
+taf.bootstrap()
 
 
 # use a folder of initial data
 # ------
 
 # create a data collection (i.e. a folder of related files which will have BIB entry)
-mkdir("bootstrap/initial/data/data-collection/")
+mkdir("bootstrap/initial/data/collection/")
 cp(
   "D:/projects/work/ices-training/TCTAF22/tc_tctaf22/examples/simple-demo-1/after/bootstrap/initial/data/*",
-  "bootstrap/initial/data/data-collection/"
+  "bootstrap/initial/data/collection/"
 )
 
 draft.data(
-  data.files = "data-collection",
+  data.files = "collection",
   data.scripts = NULL,
   originator = "R datasets package",
   title = "Collection of R data",

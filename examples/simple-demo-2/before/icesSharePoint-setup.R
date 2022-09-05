@@ -32,7 +32,7 @@ spgetfile(
   "Exercises/test.csv",
   "/TrainingCourses/TCTAF22/",
   "https://community.ices.dk",
-  "."
+  destdir = "."
 )
 
 unlink("test.csv")
