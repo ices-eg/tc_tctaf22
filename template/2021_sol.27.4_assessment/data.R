@@ -6,9 +6,8 @@
 #
 # Distributed under the terms of the EUPL-1.2
 
-
-taf.library(icesTAF)
-taf.library(data.table)
+library(icesTAF)
+library(data.table)
 taf.library(FLCore)
 taf.library(FLa4a)
 

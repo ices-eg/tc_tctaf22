@@ -7,21 +7,20 @@
 # Distributed under the terms of the EUPL-1.2
 
 
-taf.library(icesTAF)
+library(icesTAF)
 
 mkdir("report")
 
 # COPY external figures
-cp("bootstrap/initial/report/*", "report/")
+cp("bootstrap/initial/data/report/*", "report/")
 
 taf.library(FLCore)
 taf.library(FLa4a)
-taf.library(ggplotFL)
+library(ggplotFL)
 
-taf.library(data.table)
-taf.library(rmarkdown)
-taf.library(patchwork)
-taf.library(ggrepel)
+library(data.table)
+library(patchwork)
+library(ggrepel)
 
 # INPUT
 
@@ -519,4 +518,3 @@ render('presentation.md',
 
 render("report.Rmd", output_dir="report", clean=TRUE,
   output_file="report/WGNSSK 2021_Section-17_Sole_in_Subarea_4.docx")
-

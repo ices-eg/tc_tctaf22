@@ -1,4 +1,4 @@
-# bootstrap.R - Install packages and setup data
+# workspace.R - Install packages and setup data
 # 2021_sol.27.4_assessment/workspace.R
 
 # Copyright Iago MOSQUEIRA (WMR), 2022

@@ -7,11 +7,10 @@
 # Distributed under the terms of the EUPL-1.2
 
 
-taf.library(icesTAF)
+library(icesTAF)
+library(flextable)
+library(icesdown)
 taf.library(FLa4a)
-taf.library(flextable)
-
-source("utilities.R")
 
 mkdir("output")
 

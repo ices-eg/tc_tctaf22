@@ -518,4 +518,3 @@ render('presentation.md',
 
 render("report.Rmd", output_dir="report", clean=TRUE,
   output_file="report/WGNSSK 2021_Section-17_Sole_in_Subarea_4.docx")
-

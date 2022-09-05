@@ -7,8 +7,8 @@
 # Distributed under the terms of the EUPL-1.2
 
 
-taf.library(icesTAF)
-taf.library(icesAdvice)
+library(icesTAF)
+library(icesAdvice)
 taf.library(FLa4a)
 taf.library(a4adiags)
 
