@@ -154,6 +154,7 @@ tags: [sol.27.4 SA]
 | Spline for selectivity-at-age survey            | 6    |
 | Tensor spline for F-at-age, ages                | 8    |
 | Tensor spline for F-at-age, years               | 28   |
+|----------------|---------------------------------------|
 
 ## Biology
 

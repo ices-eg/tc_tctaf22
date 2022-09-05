@@ -222,7 +222,7 @@ The stock appears to have increased in size in 2020, while fishing mortality has
 
 The stock has gone through the benchmark process in 2020 (ICES WKFLATNSCS, 2020). Work during the benchmark concentrated on the two main issues in the ICES WGNSSK (2019) issue list: develop an index of abundance that includes samples from multiple countries of the BTS Q3 survey, and improvements on the residual patterns of the model fit.
 
-Limitations on time and data did now allow any work on the effect and suitability of the current assumptions on natural mortality and maturity at age to be carried out for this year's benchmark. A general revision of the biological assumptions and processes in this stock would be an useful contribution to a future benchmark. Long an short-term changes in the sampled weights at age, for example, could have an effect on natural mortality.
+Limitations on time and data did now allow any work on the effect and suitability of the current assumptions on natural mortality and maturity at age to be carried out for this year's assessment. A general revision of the biological assumptions and processes in this stock would be an useful contribution to a future benchmark. Long an short-term changes in the sampled weights at age, for example, could have an effect on natural mortality.
 
 ## References
 
